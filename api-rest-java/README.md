@@ -1,4 +1,4 @@
-Api Rest Java para um projeto de E-commerce
+# Api Rest Java para um projeto de E-commerce
 
 Projeto completo que possuiu um cliente real (stakeholder). Foram realizadas entrevistas para captar os principais requisitos funcionais do sistema, bem como também foram desenhados os diagramas de caso de uso e de entidade relacionamento para servirem como base para o ínicio do projeto (ambos disponíveis na raíz desse projeto);
 
